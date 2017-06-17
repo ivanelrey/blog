@@ -35,6 +35,7 @@ gem 'jquery-rails', '~> 4.0', '>= 4.0.5'
 
 gem 'will_paginate', '~> 3.1.0'
 gem 'bootstrap-will_paginate', '0.0.10'
+gem 'rails-controller-testing'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
